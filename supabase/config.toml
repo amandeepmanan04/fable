@@ -1,0 +1,4 @@
+project_id = "cwrefwdncfgeezqbnink"
+
+[functions.generate-wireframe]
+verify_jwt = false
